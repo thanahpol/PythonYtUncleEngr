@@ -1,3 +1,3 @@
 # PythonYtUncleEngr
 
-Learning PyGame 
+Self learning PyGame
